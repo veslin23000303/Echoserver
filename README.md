@@ -72,10 +72,11 @@ print(f"Received {data!r}")
 ## OUTPUT:
 
 
+![Screenshot 2025-03-13 082240](https://github.com/user-attachments/assets/ffc3ce66-7c33-4bbc-8841-ee7dd3a0d1d7)
+![Screenshot 2025-03-13 082255](https://github.com/user-attachments/assets/b9fcc255-4bf0-43fd-9d7a-f53c191c59a2)
 
-(<Screenshot 2025-03-12 204559.png>)
 
-(<Screenshot 2025-03-12 204453.png>)
+
 
 
 
