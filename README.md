@@ -73,9 +73,9 @@ print(f"Received {data!r}")
 
 
 
-![alt text](<Screenshot 2025-03-12 204559.png>)
+(<Screenshot 2025-03-12 204559.png>)
 
-![alt text](<Screenshot 2025-03-12 204453.png>)
+(<Screenshot 2025-03-12 204453.png>)
 
 
 
